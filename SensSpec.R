@@ -1,6 +1,6 @@
 #!/usr/bin/env Rscript
 #Validation.R v1.1
-#Combination of program by a.bigdeli & c.rushton to assess sens/specificity of a given pipeline output and a given vcf/Yable file 
+#Combination of program by a.bigdeli & c.rushton to assess sens/specificity of a given pipeline output and a given vcf/table file 
 
 #File needs columns of 
 #Chromosome in chr1 format
